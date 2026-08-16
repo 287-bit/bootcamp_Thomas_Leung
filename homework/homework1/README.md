@@ -2,7 +2,7 @@
 **Stage:** Problem Framing & Scoping (Stage 01)
 
 ## Problem Statement
--A client has two stocks in his porfolio, AMZN and APPL. He want us to allocation the porfolio so that it becomes a minimum variance portfolio.
+-Allocation porfolio with two stocks so that risks can be minimized.
 
 ## Stakeholder & User
 -Who decides: Portfolio Manager
@@ -15,7 +15,7 @@
 -Artifact to Deliver: Efficient Frontier Chart and Asset Allocation
 
 ## Assumptions & Constraints
--Data Availability: Assume daily closing prices for AMZN and AAPL are readily available
+-Data Availability: Assume daily closing prices if the two stocks are readily available
 -Capacity: Assume minimal storage and operational capacity.
 -Constraints: Model is only limited to long position.
 

@@ -10,18 +10,18 @@ Minimize a two stocks porfolio's risk.
 -Timing & workflow context: Monthly, Quarterly, or Annually
 
 ## Useful Answer & Decision
--Descriptive: Historical data of the two stocks
--Metric: Return and Asset Allocation
--Artifact to Deliver: Efficient Frontier Chart and Asset Allocation
+-Descriptive: Historical data of two stocks  
+-Metric: Return and Asset Allocation  
+-Artifact to Deliver: Efficient Frontier Chart and Asset Allocation  
 
 ## Assumptions & Constraints
--Data Availability: Assume daily closing prices if the two stocks are readily available
--Capacity: Assume minimal storage and operational capacity.
+-Data Availability: Assume daily closing prices if the two stocks are readily available.  
+-Capacity: Assume minimal storage and operational capacity.  
 -Constraints: Model is only limited to long position.
 
 ## Known Unknowns / Risks
--Risks: A portfolio with only two stocks might have high correlation. Hisotical data may be distorted due to certain historical events.
--How to test: 
+-Risks: A portfolio with only two stocks might have high correlation. Hisotical data may be distorted due to certain historical events.  
+-How to test:Check the two stocks correlation and check for data outliers to identify significant movements. 
 
 ## Lifecycle Mapping
 Goal → Stage → Deliverable

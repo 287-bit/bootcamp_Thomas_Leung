@@ -5,8 +5,8 @@
 Minimize a two stocks porfolio's risk.
 
 ## Stakeholder & User
--Who decides: Portfolio Manager /n
--Who uses the output: Investors
+-Who decides: Portfolio Manager  
+-Who uses the output: Investors  
 -Timing & workflow context: Monthly, Quarterly, or Annually
 
 ## Useful Answer & Decision
